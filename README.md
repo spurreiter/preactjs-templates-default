@@ -3,6 +3,12 @@ Improved preact default starter template from https://github.com/preactjs-templa
 - updated dependencies
 - jest tests running
 
+Start with 
+```
+npm i --location=global degit
+degit https://github.com/spurreiter/preactjs-templates-default
+```
+
 # {{ name }}
 
 ## CLI Commands
