@@ -1,12 +1,13 @@
-root: true
 env:
   browser: true
   es2021: true
+  jest: true
 extends:
   - preact
+  - standard
 overrides: []
 parserOptions:
   ecmaVersion: latest
   sourceType: module
-plugins: []
+plugins: [] 
 rules: {}
