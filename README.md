@@ -13,7 +13,7 @@ degit https://github.com/spurreiter/preactjs-templates-default
 
 ## CLI Commands
 
-``` bash
+```bash
 # install dependencies
 npm install
 
